@@ -20,7 +20,6 @@ The goal is to:
 - Guide the product team with actionable insights
 
 ## 📁 Files Included
-- `VendBridge App Engagement.docx`: In-depth performance report
 - `VendBridge Project Analysis PPT.pptx`: Executive summary presentation
 - `Vendbridge project.twbx`: Tableau Workbook (interactive dashboard)
 - `VendBridge.xlsx`: Raw data used for the Tableau dashboard
